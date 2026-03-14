@@ -5,7 +5,7 @@
   "minAppVersion": "1.5.0",
   "description": "Automatically converts CamelCase, PascalCase, snake_case, Wikilinks and custom patterns into links.",
   "author": "Jad00gar",
-  "authorUrl": "https://github.com/jad00gar/Obsidian-CamelCase/",
+  "authorUrl": "https://github.com/jad00gar/",
   "isDesktopOnly": false,
   "fundingUrl": {
     "BuyMe a Coffee": "https://paypal.me/ziakhan"
